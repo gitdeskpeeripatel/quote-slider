@@ -1,4 +1,4 @@
-view:- quote-slider-ruddy.vercel.app
+view:- https://quote-slider-ruddy.vercel.app/
 
 📄 Quote Slide Documentation
 
