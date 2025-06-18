@@ -1,4 +1,7 @@
+view:- quote-slider-ruddy.vercel.app
+
 📄 Quote Slide Documentation
+
 🔸 Overview
 This is a web-based Quote Slider that cycles through inspirational quotes, each with an author photo, name, and quote text. The design uses glassmorphism aesthetics with smooth transitions and border framing.
 
